@@ -1,53 +1,90 @@
 # learn-go
+Go is an open source programming language designed for building scalable, secure and reliable software. Please read the official documentation to learn more.
 
-## Iam following https://www.boot.dev/courses/learn-golang
+## Iam following Go by Example https://gobyexample.com/
 
 ### Chapter List
-1
+Hello World
+Values
 Variables
-Learn the basic syntax for declaring and using variables and why you should use Go in the first place
-2
-Conditionals
-Use if/else statements to control the flow of your program
-3
-Functions
-Learn about how functions behave
-4
-Structs
-Idiomatically model data in Go using structs
-5
-Interfaces
-Master one of Go's most powerful tools: the interface
-6
-Errors
-Learn how Go uniquely handles errors
-7
-Loops
-Practice various algorithms in Go
-8
+Constants
+For
+If/Else
+Switch
+Arrays
 Slices
-Learn about Go's take on ordered lists
-9
 Maps
-Go has an answer to Python's sets and dictionaries, we call it a map
-10
+Functions
+Multiple Return Values
+Variadic Functions
+Closures
+Recursion
+Range over Built-in Types
 Pointers
-Learn about pointers and their pitfalls
-11
-Packages and Modules
-Learn how go projects are organized on your local machine
-12
-Channels
-Master the #1 reason to use Go: its elegance of concurrent programming
-13
-Mutexes
-Continue learning about concurrency with mutexes
-14
-Generics
-Learn how Go approaches polymorphism with generics: a new feature added in 1.18
-15
+Strings and Runes
+Structs
+Methods
+Interfaces
 Enums
-Go famously doesn't support proper enums, but we'll go over how Go developers solve the same kinds of problems with the tools they have.
-16
-Quiz
-Learn about go-specific design patterns and fun language facts
+Struct Embedding
+Generics
+Range over Iterators
+Errors
+Custom Errors
+Goroutines
+Channels
+Channel Buffering
+Channel Synchronization
+Channel Directions
+Select
+Timeouts
+Non-Blocking Channel Operations
+Closing Channels
+Range over Channels
+Timers
+Tickers
+Worker Pools
+WaitGroups
+Rate Limiting
+Atomic Counters
+Mutexes
+Stateful Goroutines
+Sorting
+Sorting by Functions
+Panic
+Defer
+Recover
+String Functions
+String Formatting
+Text Templates
+Regular Expressions
+JSON
+XML
+Time
+Epoch
+Time Formatting / Parsing
+Random Numbers
+Number Parsing
+URL Parsing
+SHA256 Hashes
+Base64 Encoding
+Reading Files
+Writing Files
+Line Filters
+File Paths
+Directories
+Temporary Files and Directories
+Embed Directive
+Testing and Benchmarking
+Command-Line Arguments
+Command-Line Flags
+Command-Line Subcommands
+Environment Variables
+Logging
+HTTP Client
+HTTP Server
+Context
+Spawning Processes
+Exec'ing Processes
+Signals
+Exit
